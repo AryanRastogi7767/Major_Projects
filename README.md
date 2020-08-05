@@ -19,3 +19,20 @@ It is a Machine Learning based web app for beginners in the field of machine lea
 1. Clone the contents of the ML Workout folder into a separate folder on your local machine.
 2. Enter the folder using command prompt.
 3. Enter "streamlit run app.py" to run the web app on your default browser.
+
+**Screenshots:**
+
+
+![Image](https://github.com/AryanRastogi7767/Major_Projects/blob/master/ML_workout/screenshots/sc1.png)
+
+
+![Image](https://github.com/AryanRastogi7767/Major_Projects/blob/master/ML_workout/screenshots/sc2.png)
+
+
+![Image](https://github.com/AryanRastogi7767/Major_Projects/blob/master/ML_workout/screenshots/sc3.png)
+
+
+![Image](https://github.com/AryanRastogi7767/Major_Projects/blob/master/ML_workout/screenshots/sc4.png)
+
+
+![Image](https://github.com/AryanRastogi7767/Major_Projects/blob/master/ML_workout/screenshots/sc5.png)
