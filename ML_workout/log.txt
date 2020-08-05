@@ -1,0 +1,41 @@
+Project log:
+
+21/6/2020 -- added test_size input functionality
+             changed multi class metrics from "micro" to "macro"
+             added source of datasets in description of the data
+             added "Show data info" checkbox and functionality that shows data shape and dist of target in train and test data
+             added class weights in multi class classification algorithms
+
+22/6/2020 -- added data pre-processing steps for all the datasets.
+             added oversampling feature for datasets. Random over sampler and SMOTE
+             
+29/6/2020 -- downloaded and read about boston housing dataset
+
+30/6/2020 -- added ROC-AUC Curve in show_plots_mul() function using yellowbrick library
+
+1/7/2020 -- parallelized the computation of Logistic Regression, Random Forests and KNN in binary and multi-class classification(n_jobs =-1)
+
+2/7/2020 -- added regression section
+	    changed Logistic regression part to Linear Regression
+            added view_metrics_reg() function
+            changed algorithms from classifier to regressor
+            edited the hyperparameters of the algorithms
+            added boston housing data in regression
+
+3/7/2020 -- added distplots in show_data_info
+            added advertising data
+            removed Gaussian NB from regression
+            added and completed shoe_plots_reg() function
+            
+4/5/2020 -- added Class Prediction Error plot instead of Precision-Recall Curve in show_plots_mul() function
+            found best scores on mushrooms, titanic and iris dataset
+            
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TODO:
+* Add more information of the algorithms.
+* Try and find the best score on each dataset and mention it for user to achieve.
+* Use better plots and viz to show results.
+* Try and remove the warnings on the cmd.
+
+
